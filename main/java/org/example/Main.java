@@ -14,6 +14,7 @@ public class Main {
         Arrays.sort(arraysOfStrings);
         System.out.println(Arrays.toString(arraysOfStrings));
         Arrays.sort(arraysOfStrings, Collections.reverseOrder());
+        System.out.println();
         System.out.println(Arrays.toString(arraysOfStrings));
 
     }
